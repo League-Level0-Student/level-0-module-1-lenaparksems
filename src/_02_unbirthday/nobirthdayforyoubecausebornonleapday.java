@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	String p = JOptionPane.showInputDialog("When is your birtday?(mm/dd)");
 	
 	
-	if(p.equals("12/04")) {
+	if(p.equals("12/18")) {
 		
 		JOptionPane.showMessageDialog(null,"Happy Birthday!");
 		
